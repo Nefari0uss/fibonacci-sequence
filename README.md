@@ -4,7 +4,8 @@
 
 ![language java](https://img.shields.io/badge/language-Java-blue.svg "Language Java")
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![Build Status](https://travis-ci.org/Nefari0uss/fibonacci-sequence?branch=master)](https://travis-ci.org/Nefari0uss/fibonacci-sequence)
+[![Build Status](https://travis-ci.org/Nefari0uss/fibonacci-sequence.svg?branch=master)](https://travis-ci.org/Nefari0uss/fibonacci-sequence)
+
 
 ## Summary
 This program will request a maximum `n`**th** value to reach in generating the Fibonacci sequence. It will display all terms generated less than or equal to the `n`**th** term. 
